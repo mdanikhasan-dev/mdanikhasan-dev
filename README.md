@@ -46,7 +46,7 @@ Reach me at <a href="mailto:anikhasan2@icloud.com">anikhasan2@icloud.com</a>
   <br>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/sawlper/" target="_blank">
+    <a href="https://www.linkedin.com/in/mdanikhasan-dev/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="LinkedIn logo" />
     </a>
     <a href="https://discord.com/users/751170057664462938" target="_blank">
