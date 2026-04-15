@@ -1,11 +1,7 @@
-<!-- =========================
-      HEADER
-========================= -->
 <h1 align="center">
   <span style="color:#1E3A8A;">MD Anik Hasan</span>
 </h1>
 
-<!-- Navy banner bar (visual polish + helps typing readability) -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0A1633&height=48&section=header&text=%20&fontSize=1"
@@ -14,7 +10,7 @@
   />
 </p>
 
-<!-- Typing text (kept same info, improved readability) -->
+
 <p align="center" style="margin-top:-42px;">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=1E3A8A&center=true&vCenter=true&width=720&lines=C+Programming;Data+Structures+%26+Algorithms;Machine+Learning;Unreal+Engine+5"
@@ -22,9 +18,7 @@
   />
 </p>
 
-<!-- =========================
-      HERO IMAGE
-========================= -->
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be"
@@ -33,9 +27,7 @@
   />
 </p>
 
-<!-- =========================
-      ABOUT
-========================= -->
+
 ## About Me
 
 > Figuring out how things work beneath the surface.  
@@ -54,9 +46,6 @@
 Reach me at <a href="mailto:anikhasan2@icloud.com">anikhasan2@icloud.com</a>  
 Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://www.mdanikhasan.com/</a>
 
-<!-- =========================
-      EXPAND SECTION
-========================= -->
 <details>
   <summary>
     <img
@@ -68,9 +57,6 @@ Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://w
 
   <br>
 
-  <!-- =========================
-        NAVY STAT STRIP (clean, no ugly repeats)
-  ========================= -->
   <div align="center">
     <img
       src="https://img.shields.io/badge/Followers-%20-0A1633?style=for-the-badge&labelColor=0A1633&color=1E3A8A"
@@ -98,9 +84,7 @@ Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://w
 
   <br>
 
-  <!-- =========================
-        STREAK (green stays)
-  ========================= -->
+ 
   <div align="center">
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=mdanikhasan-dev&theme=github-dark&hide_border=true"
@@ -111,7 +95,6 @@ Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://w
 
   <br>
 
-  <!-- Optional: Activity graph (looks good, but remove if you want minimal) -->
   <div align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=mdanikhasan-dev&theme=github-compact&hide_border=true"
@@ -122,9 +105,7 @@ Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://w
 
   <br>
 
-  <!-- =========================
-        SOCIAL ICONS (links unchanged)
-  ========================= -->
+
   <div align="center">
     <a href="https://www.linkedin.com/in/mdanikhasan-dev/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="26" alt="LinkedIn" />
@@ -145,9 +126,7 @@ Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://w
 
 </details>
 
-<!-- =========================
-      FOOTER STRIP (subtle polish)
-========================= -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0A1633&height=18&section=footer&text=%20&fontSize=1"
