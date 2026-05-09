@@ -43,7 +43,7 @@
 
 <br>
 
-Reach me at <a href="mailto:anikhasan2@icloud.com">anikhasan2@icloud.com</a>  
+Reach me at <a href="mailto:anikhasan2@icloud.com">hello@mdanikhasan.com</a>  
 Visit my website: <a href="https://www.mdanikhasan.com" target="_blank">http://www.mdanikhasan.com/</a>
 
 <details>
